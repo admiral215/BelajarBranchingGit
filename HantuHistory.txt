@@ -1,2 +1,3 @@
 Line 1: Awal Hantu Branch
 Line 2: Kuntilanak berasal dari Pontianak
+Line 3: Pontianak sendiri adalah bahasa melayu dari Kuntilanak
